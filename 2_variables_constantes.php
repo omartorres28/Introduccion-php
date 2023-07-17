@@ -10,7 +10,7 @@
     <h1>variables y constantes</h1>
     <!--script php -->
     <?php
-        /*1. */
+        /*1.La formas de representar las variables en php es anteponiendo el simbolo $ a la palabra que utlizaremos como variable. Ejemplo: sedad. */
 
         /*2.Debemos prestar atenciòn a las mayuscula y minisculas ya que php reconoce la diferencia entre las dos. */
 
@@ -38,9 +38,7 @@
         //Sintaxis: define("nombre_variable, "valor_variable")
 
         define("capital_colombia","Bogota");
-        define("habitantes", "7 millones")
-
-
+        define("habitantes", "7000000")
 
     ?>
 
